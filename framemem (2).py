@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1o21ua8swREMQj77oiN_ISLieszGIgHOs
 """
 
-pip install Telegram
-pip install python_telegram_bot
+#pip install Telegram
+#pip install python_telegram_bot
 
 import os
 PORT = int(os.environ.get('PORT', 5000)) 
